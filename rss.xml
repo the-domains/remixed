@@ -4,8 +4,15 @@
         <description><![CDATA[Remixed]]></description>
         <link>https://thegrid.ai/remixed/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 13:55:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 13:55:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/remixed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Remix is...]]></title>
+            <description><![CDATA[<article><h1>The Remix is...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1b461c4-e30d-4b47-8ab2-c0db7b511968.jpg"></article>]]></description>
+            <link>https://thegrid.ai/remixed/the-remix-is/index.html</link>
+            <guid isPermaLink="false">82a7b38c-ed78-4ca3-9d60-7f24ae542092</guid>
+            <pubDate>Sun, 17 Jul 2016 13:54:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Process...]]></title>
             <description><![CDATA[<article><h1>The Process...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd4460a8-6c82-48d3-97c7-fadcd3382fca.jpg"></article>]]></description>
